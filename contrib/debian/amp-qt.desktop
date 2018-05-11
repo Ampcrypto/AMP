@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AMP
+Comment=AMP P2P Cryptocurrency
+Comment[fr]=AMP, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AMP, eşten eşe kriptografik sanal para birimi
+Exec=amp-qt %u
+Terminal=false
+Type=Application
+Icon=amp128
+MimeType=x-scheme-handler/amp;
+Categories=Office;Finance;

@@ -1,0 +1,11 @@
+[Protocol]
+exec=amp-qt '%u'
+protocol=amp
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
